@@ -12,7 +12,7 @@
 - UI/UX figma ✔
 - Vue ✔
 - Agile ✔
-- Backend (NodeJS & other frameworks) 
+- Backend (NodeJS & other frameworks) 👈
 - Cross-platform development ( React-Native, Typescript )  
 - Internship 1 (29 August–16 Oct 2022) 
 - Software Life Cycle Management
