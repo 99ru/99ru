@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React & Node
 - 🥅 GOAL: become a brogrammer 
 
-###Learning on my own: 
+### Learning on my own: 
 - React 
 
 ### School courses:
