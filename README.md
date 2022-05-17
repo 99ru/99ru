@@ -3,7 +3,7 @@ Javascript developer
 
 student at IT-Högskolan, Stockholm
 
-* 🧠  I'm learning Node & React
+* 🧠  learning React & React native
 * ⚡  currently looking for an internship
 
 ### Skills
