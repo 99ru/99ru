@@ -20,8 +20,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="36" height="36"/>
 </a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="36" height="36"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="36" height="36"/>
 </a>
+
 
 
 
