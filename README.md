@@ -46,6 +46,16 @@
   </a>
 </p>
 
+### other
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="36" height="36"/>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/>
+</a>
+
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/yan-rudish-a9868621a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
