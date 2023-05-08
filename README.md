@@ -9,7 +9,7 @@
 
 
 
-### Skills
+### Frontend
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
@@ -23,8 +23,20 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="36" height="36"/>
 </a>
 
+### Backend
 
 
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36" height="36"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="36" height="36"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="36" height="36"/>
+  </a>
+</p>
 
 ### Socials
 
