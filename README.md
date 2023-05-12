@@ -5,7 +5,7 @@
 --------------------------
 
 * 🌍  Stockholm, Sweden
-* 🖥️  Portfolio [Portfolio](https://yanru.netlify.app/) 🔗
+* 💼  Check out my portfolio [Portfolio](https://yanru.netlify.app/){:target="_blank"} 🔗
 
 
 
