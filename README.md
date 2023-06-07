@@ -1,11 +1,13 @@
  Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 
-🖥️ Javascript student at IT-Högskolan.
+🖥️ Web Developer.
 --------------------------
 
 * 🌍  Stockholm, Sweden
-* 💼  Check out my portfolio [Portfolio](https://yanru.netlify.app/) 🔗
+* 🎓  IT-Högskolan
+* 🧠  Currently learning Tailwind
+* 💼  Portfolio [Portfolio](https://yanru.netlify.app/) 🔗
 
 
 
