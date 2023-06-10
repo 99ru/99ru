@@ -6,7 +6,7 @@
 
 * 🌍  Stockholm, Sweden
 * 🎓  IT-Högskolan
-* 🧠  Currently learning Tailwind
+* 🧠  Currently learning Tailwind & Next.js
 * 💼  [Portfolio](https://yanru.netlify.app/) 🔗
 
 
