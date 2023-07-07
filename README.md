@@ -38,6 +38,12 @@
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="36" height="36"/>
   </a>
+ <a href="https://www.sql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="36" height="36"/>
+</a>
+<a href="https://sequelize.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="36" height="36"/>
+</a>
 </p>
 
 ### other
