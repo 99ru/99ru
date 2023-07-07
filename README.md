@@ -1,4 +1,4 @@
-🖥️ Web Developer.
+🖥️ Junior Developer
 --------------------------
 
 * 🌍  Stockholm, Sweden
