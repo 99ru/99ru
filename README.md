@@ -31,8 +31,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="36" height="36"/>
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="36" height="36"/>
+  <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="nextjs" width="36" height="36"/>
 </a>
+
 
 
 
