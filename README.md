@@ -21,9 +21,6 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="36" height="36"/>
 </a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="36" height="36"/>
-</a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
 </a>
