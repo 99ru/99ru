@@ -1,6 +1,3 @@
-🖥️ Junior Developer
---------------------------
-
 * 🌍  Stockholm, Sweden
 * 🎓  IT-Högskolan
 * 💼  [Portfolio](https://yanru.netlify.app/) 🔗
