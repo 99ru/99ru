@@ -4,7 +4,9 @@
 
 ### Frontend
 
-### Backend
+### **Back-End:**
+
+[![back-end](https://skillicons.dev/icons?i=nodejs,python,express,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](#back-end)
 
 
 ### Other
