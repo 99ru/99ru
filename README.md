@@ -1,5 +1,4 @@
-* 🌍  Stockholm, Sweden
-* 🎓  IT-Högskolan
+# Hello👋
 * 💼  [Portfolio](https://yanru.netlify.app/) 🔗
 
 ### **Front-End:**
