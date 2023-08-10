@@ -4,7 +4,7 @@
 
 ### **Front-End:**
 
-[![front-end](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap,js,ts,vue,react,redux,next&perline=10)](#front-end)
+[![front-end](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,js,ts,react,vue,next&perline=10)](#front-end)
 
 ### **Back-End:**
 
