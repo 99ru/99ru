@@ -8,10 +8,10 @@
 
 ### **Back-End:**
 
-[![back-end](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgresql,bash&perline=10)](#back-end)
+[![back-end](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgresql&perline=10)](#back-end)
 
 
 ### **Other:**
 
-[![Other](https://skillicons.dev/icons?i=git,docker,figma,bash&perline=10)](#other)
+[![Other](https://skillicons.dev/icons?i=git,docker,figma,&perline=10)](#other)
 
