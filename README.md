@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,nodejs" />
+    <img src="https://skillicons.dev/icons?i=linkedin,nodejs," />
   </a>
 </p>
