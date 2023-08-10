@@ -2,7 +2,9 @@
 * 🎓  IT-Högskolan
 * 💼  [Portfolio](https://yanru.netlify.app/) 🔗
 
-### Frontend
+### **Front-End:**
+
+[![front-end](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap,js,ts,vue,react,redux,next&perline=10)](#front-end)
 
 ### **Back-End:**
 
