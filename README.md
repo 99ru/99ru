@@ -8,7 +8,7 @@
 
 ### **Back-End:**
 
-[![back-end](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgresql&perline=10)](#back-end)
+[![back-end](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgresql,sequelize&perline=10)](#back-end)
 
 
 ### **Other:**
