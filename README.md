@@ -13,5 +13,5 @@
 
 ### **Other:**
 
-[![Other](https://skillicons.dev/icons?i=git,docker,figma,&perline=10)](#other)
+[![Other](https://skillicons.dev/icons?i=git,docker,figma&perline=10)](#Other)
 
