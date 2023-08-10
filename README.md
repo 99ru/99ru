@@ -8,26 +8,10 @@
 
 ### **Back-End:**
 
-[![back-end](https://skillicons.dev/icons?i=nodejs,python,express,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](#back-end)
+[![back-end](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgresql,bash&perline=10)](#back-end)
 
 
 ### **Other:**
 
-[![Other](https://skillicons.dev/icons?i=nodejs,python,express,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](#back-end)
+[![Other](https://skillicons.dev/icons?i=git,docker,figma,bash&perline=10)](#other)
 
-
-### Other
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,docker," />
-  </a>
-</p>
-
-### Socials
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin," />
-  </a>
-</p>
