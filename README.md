@@ -15,3 +15,10 @@
 
 [![Other](https://skillicons.dev/icons?i=git,docker,figma,linux&perline=10)](#Other)
 
+### **Stats:**
+
+[![Yanru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=99ru&show_icons=true&theme=radical)](https://github.com/99ru/github-readme-stats)
+
+[![Yanru's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=99ru&theme=radical)](https://github.com/99ru/github-readme-stats)
+
+[![Yanru's Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=99ru&theme=radical)](https://github.com/99ru/github-readme-stats)
