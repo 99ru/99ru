@@ -1,5 +1,4 @@
 # Hello👋
-* 💼  [Portfolio](https://yanru.netlify.app/) 🔗
 
 ### **Front-End:**
 
